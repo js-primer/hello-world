@@ -1,0 +1,20 @@
+{
+  "name": "@js-primer/hello-world",
+  "version": "1.0.0",
+  "description": "Hello World for js-primer",
+  "main": "index.js",
+  "bin": {
+    "js-primer-hello-world": "index.js"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": "git+https://github.com/js-primer/hello-world.git",
+  "keywords": [],
+  "author": "Suguru Inatomi <suguru.inatomi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/js-primer/hello-world/issues"
+  },
+  "homepage": "https://github.com/js-primer/hello-world#readme"
+}
