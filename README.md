@@ -17,7 +17,7 @@ Hello World for [js-primer](https://github.com/asciidwango/js-primer "js-primer"
 
 ### Usage for old Node.js
 
-NOde.js 8.2未満の場合は[npm](https://www.npmjs.com/)でインストールし利用できます。
+Node.js 8.2未満の場合は[npm](https://www.npmjs.com/)でインストールし利用できます。
 
     npm install @js-primer/hello-world --global
     $ js-primer-hello-world
